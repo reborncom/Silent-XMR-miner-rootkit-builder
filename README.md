@@ -13,6 +13,7 @@ Rootkit features:
   - Watchdog
   - AVCheck
   - Hider
+  - Custop drop path
 
 Demo video:
 https://youtu.be/38GICDv9IsI
