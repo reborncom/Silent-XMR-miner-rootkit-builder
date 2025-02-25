@@ -1,6 +1,12 @@
 # Silent XMR Miner+Rootkit builder
 ⚠️ WARNING: Only for education
 
+🍵 Buy me a coffe
+LTC: ltc1qd3nnspjnldy24x88pzev8uslxsh3m08sjyj3j2
+BTC: bc1ql77k82gsdve5n8dtq4p29xjmctgu2sk26dxhff
+USDT eth: 0x29479d0A8F5646d4505c9DDbf0C314f1Bd6bf522
+USDT tron: TAsZJrEYqpc7KHBPjh6btZ1cTjtFufgxmr
+
 Miner features:
   - Huge pages support
   - Slow mode support
