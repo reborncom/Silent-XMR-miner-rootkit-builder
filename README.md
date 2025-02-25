@@ -7,6 +7,7 @@ LTC: ltc1qd3nnspjnldy24x88pzev8uslxsh3m08sjyj3j2
 BTC: bc1ql77k82gsdve5n8dtq4p29xjmctgu2sk26dxhff 
 USDT eth: 0x29479d0A8F5646d4505c9DDbf0C314f1Bd6bf522 
 USDT tron: TAsZJrEYqpc7KHBPjh6btZ1cTjtFufgxmr 
+Monero: 4ANZNANEzLA2U2Xs3wrsu5bUXNbqqWHoDe2YEWKe2o8L5xLn4giRBBzWeYHDCiQ49XjUPeMB4bmZaD7zyAob7AEcAzcDLCF
  ```
 
 Miner features:
