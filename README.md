@@ -1,4 +1,5 @@
 # Silent XMR Miner+Rootkit builder
+
 Miner features:
   - Huge pages support
   - Slow mode support
@@ -7,6 +8,7 @@ Miner features:
   - Init threads settings
   - CPU priority settings
   - Custom path to modules
+
 Rootkit features:
   - Watchdog
   - AVCheck
