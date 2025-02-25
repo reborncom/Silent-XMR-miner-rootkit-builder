@@ -1,6 +1,4 @@
 # Silent XMR Miner+Rootkit builder
-This is free builder of silent xmr miner
-
 Miner features:
   - Huge pages support
   - Slow mode support
