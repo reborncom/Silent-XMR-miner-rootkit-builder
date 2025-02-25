@@ -1,4 +1,5 @@
 # Silent XMR Miner+Rootkit builder
+⚠️ WARNING: Only for education
 
 Miner features:
   - Huge pages support
